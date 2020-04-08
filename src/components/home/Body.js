@@ -63,6 +63,7 @@ export default class Body extends Component {
                     <a href={index.html_url}>
                       <h5>{index.name}</h5>
                     </a>
+                      <p>{index.language}</p>
                   </div>
                 ))}
               </Col>
