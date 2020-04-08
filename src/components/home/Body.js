@@ -55,13 +55,16 @@ export default class Body extends Component {
               <Col>
                 <h2>List Repository</h2>
                 {data.map((index, key) => (
-                  <div key={key}>
+                  <div
+                    className="mt-3"
+                    key={key}
+                    style={{ borderBottom: "1px solid" }}
+                  >
                     <a href={index.html_url}>
                       <h5>{index.name}</h5>
                     </a>
                   </div>
                 ))}
-                <hr />
               </Col>
             </Row>
           </Col>
