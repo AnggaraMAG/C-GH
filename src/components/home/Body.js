@@ -42,7 +42,7 @@ export default class Body extends Component {
                 value={this.state.name}
                 type="text"
                 name="name"
-                placeholder="Search"
+                placeholder="Search Account..."
                 className="mr-sm-2"
                 onChange={this.handleChange}
               />
