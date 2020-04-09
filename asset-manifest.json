@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/TDS_Frontend-Developer/static/css/main.5f361e03.chunk.css",
+    "main.js": "/TDS_Frontend-Developer/static/js/main.66d715f6.chunk.js",
+    "main.js.map": "/TDS_Frontend-Developer/static/js/main.66d715f6.chunk.js.map",
+    "runtime-main.js": "/TDS_Frontend-Developer/static/js/runtime-main.3f4e0e9b.js",
+    "runtime-main.js.map": "/TDS_Frontend-Developer/static/js/runtime-main.3f4e0e9b.js.map",
+    "static/css/2.de424728.chunk.css": "/TDS_Frontend-Developer/static/css/2.de424728.chunk.css",
+    "static/js/2.1b3f4392.chunk.js": "/TDS_Frontend-Developer/static/js/2.1b3f4392.chunk.js",
+    "static/js/2.1b3f4392.chunk.js.map": "/TDS_Frontend-Developer/static/js/2.1b3f4392.chunk.js.map",
+    "index.html": "/TDS_Frontend-Developer/index.html",
+    "precache-manifest.74e745fb28d4ad9cf4e0256acc6200a4.js": "/TDS_Frontend-Developer/precache-manifest.74e745fb28d4ad9cf4e0256acc6200a4.js",
+    "service-worker.js": "/TDS_Frontend-Developer/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/TDS_Frontend-Developer/static/css/2.de424728.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/TDS_Frontend-Developer/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.1b3f4392.chunk.js.LICENSE.txt": "/TDS_Frontend-Developer/static/js/2.1b3f4392.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f4e0e9b.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.1b3f4392.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.66d715f6.chunk.js"
+  ]
+}
